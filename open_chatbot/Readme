@@ -1,1 +1,2 @@
-
+Install OpenAI Python package: pip install openai
+Obtain an API key from OpenAI and replace the 'YOUR_API_KEY' with your key. 
